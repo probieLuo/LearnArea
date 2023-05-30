@@ -35,7 +35,7 @@ $$
 6. At the command prompt,type `nano` .
 7. 如果不想用四个空格或两个制表符来创建代码块，请使用围栏式代码块
 
-    ```
+    ``` python
     import pandas as pd
     import numbers as ny
     data=pd.read_csv('read.csv')
